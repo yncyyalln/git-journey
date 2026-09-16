@@ -1,5 +1,5 @@
-Name: Allen (staging)
+Name: Allen
 Age: 21
-Address: Tarlac (development)
+Address: Tarlac
 Nickname: Yanyan
 Birthday: July 7 2007
