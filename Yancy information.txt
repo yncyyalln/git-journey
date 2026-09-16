@@ -1,4 +1,4 @@
-Name: Yancy (staging)
-Age:
+Name: Allen (staging)
+Age: 19
 Address: Tarlac (development)
 
