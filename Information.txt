@@ -1,7 +1,3 @@
 Name: Yancy (development)
 Age:
-<<<<<<< HEAD
-Address: 
-=======
 Address: Bulacan (staging)
->>>>>>> staging
